@@ -1,0 +1,233 @@
+body{
+	font-family: 'Convergence', sans-serif;
+	font-family: 'Coustard', serif;
+	font-family: 'Lato', sans-serif;
+	font-family: 'Lobster', cursive;
+	font-family: 'Manrope', sans-serif;
+	font-family: 'Miriam Libre', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+.section1{
+	background-image: url(images/donation13.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.section1 h1{
+	color: white;
+	font-size: 65px;
+	text-align: center;
+	padding-top: 150px;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+.section1 p{
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	margin-top: -20px;
+}
+.section1 button{
+	text-decoration: none;
+	background: tomato;
+	padding: 15px 35px;
+	border-radius: 10px;
+	color: white;
+	font-size: 20px;
+	margin-left: 585px;
+	margin-top: 20px;
+	margin-bottom: 100px;
+	border: 1px solid tomato;
+}
+.section2 h1{
+	color: black;
+	font-size: 50px;
+	text-align: center;
+	padding-top: 40px;
+}
+.section2 p{
+	color: dimgray;
+	font-size: 18px;
+	text-align: center;
+	margin-top: -20px;
+	font-weight: bold;
+}
+.section2 div{
+	color: dimgray;
+	font-size: 20px;
+	padding: 25px ;
+	margin-left: 25%;
+	margin-right: -24%;
+	margin-top: 10px;
+	box-shadow: 5px 5px 20px gray;
+	border-radius: 10px;
+	float: left;
+}
+.difrant h2{
+	color: black;
+}
+.difrant{
+	background-color: tomato;
+	border: 2px solid dimgray;
+}
+.section2 button{
+	text-decoration: none;
+	background: tomato;
+	padding: 15px 35px;
+	border-radius: 10px;
+	color: white;
+	font-size: 20px;
+	margin-top: 20px;
+	margin-left: 580px;
+	margin-bottom: 100px;
+	border: 1px solid tomato;
+}
+.section2 span{
+	margin-left: 45%;
+}
+.section3 h2{
+	color: black;
+	font-size: 45px;
+	text-align: center;
+}
+.section3 p{
+	color: dimgray;
+	font-size: 18px;
+	text-align: center;
+	margin-top: -20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+.donateplan{
+	width: 20%;
+	margin-left: 170px;
+	margin-top: 30px;
+	padding: 30px ;
+	box-shadow: 10px 10px 20px gray;
+	border-radius: 10px;
+	background-color: #EDF5F6;
+}
+.donateplan h2{
+	text-align: left;
+}
+.donateplan p{
+	text-align: left;
+	margin-top: 10px;
+}
+.donateplan1{
+	width: 20%;
+	margin-left: 550px;
+	margin-top: -410px;
+	padding: 30px ;
+	box-shadow: 10px 10px 20px gray;
+	border-radius: 10px;
+	background-color: #FFEEEE;
+}
+.donateplan1 h2{
+	text-align: left;
+}
+.donateplan1 p{
+	text-align: left;
+	margin-top: 10px;
+}
+.donateplan2{
+	width: 20%;
+	float: right;
+	margin-top: -410px;
+	margin-right: 90px;
+	padding: 25px ;
+	box-shadow: 10px 10px 20px gray;
+	border-radius: 10px;
+	background-color: #FFF4D6;
+}
+.donateplan2 h2{
+	text-align: left;
+}
+.donateplan2 p{
+	text-align: left;
+	margin-top: 10px;
+}
+.section4{
+	display: flex;
+	margin-top: 100px;
+}
+
+.halp-width{
+	width: 50%;
+}
+.halp-width img{
+	width: 80%;
+	height: 120%;
+}
+.section4 h1{
+	padding-left: 25%;
+	font-size: 48px;
+}
+.section4 p{
+	padding-left: 25%;
+	font-size: 18px;
+	font-weight: bold;
+	color: dimgray;
+}
+.section4 button{
+	text-decoration: none;
+	background: tomato;
+	padding: 15px 35px;
+	border-radius: 10px;
+	color: white;
+	font-size: 20px;
+	border: 1px solid tomato;
+	margin-left:25% ;
+}
+.section5 h1{
+	font-size: 48px;
+	text-align: center;
+	margin-top: 150px;
+}
+.section5 p{
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+.section5 div{
+	text-align: center;
+	padding: 70px;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: #FFF4D6;
+}
+.section5 input{
+	font-size: 20px;
+	padding: 15px;
+	border: none;
+	border-radius: 5px;
+}
+.section5 button{
+	font-size: 20px;
+	margin-left: -6px;
+	background-color: tomato;
+	padding: 15px;
+	border: none;
+	border-radius: 5px;
+}
+footer{
+	margin-top: 100px;
+	text-align: center;
+	padding: 50px;
+	background-color: #0B0D17;
+}
+footer h1{
+	color: #FF5959;
+	font-family: initial;
+}
+footer p{
+	color: white;
+}
+.section2 hr{
+	margin-top:30px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.amount p{
+	color: dimgray;
+	margin-top: 15%;
+}
